@@ -37,7 +37,14 @@ namespace ElectronicBillingProgram
             }
             return null;
         }
-
+        private void addRequests(List<RequestModel> newRequests) {
+            foreach (RequestModel request in newRequests) {
+                if (request.type == RequestType.PDF)
+                    dataGridViewPDF.Rows.Add(request.id.ToString(), request.value, request.status);
+                else
+                    dataGridViewXML.Rows.Add(request.id.ToString(), request.value, request.status);
+            }
+        }
         private void btnAddXML_Click(object sender, EventArgs e)
         {
             String[] paths = getFiles("XML");
@@ -49,8 +56,23 @@ namespace ElectronicBillingProgram
                 {
                     FileStream file = new FileStream(path, FileMode.Open, FileAccess.Read);
                     xml = new StreamReader(file).ReadToEnd();
-                    newRequests.Add(new RequestModel(GeneralBusiness.RequestType.XML, CurrentId++, xml));
+                    newRequests.Add(new RequestModel(RequestType.XML, CurrentId++, xml));
                 }
+                addRequests(newRequests);
+            }
+        }
+
+        private void btnAddPDF_Click(object sender, EventArgs e)
+        {
+            String[] paths = getFiles("PDF");
+            if (paths != null)
+            {
+                List<RequestModel> newRequests = new List<RequestModel>();
+                foreach (String path in paths)
+                {
+                    newRequests.Add(new RequestModel(RequestType.PDF, CurrentId++, path));
+                }
+                addRequests(newRequests);
             }
         }
     }

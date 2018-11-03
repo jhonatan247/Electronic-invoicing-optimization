@@ -6,6 +6,7 @@ namespace GeneralBusiness
 {
     public enum InvoiceState
     {
+        created,
         received,
         signed,
         signError,
@@ -44,7 +45,7 @@ namespace GeneralBusiness
 
         public InvoiceModel()
         {
-            state = InvoiceState.received;
+            state = InvoiceState.created;
             createddate = DateTime.Now;
             customerSendState = CustomerSendState.noSended;
             customerAction = CustomerAction.noAction;
