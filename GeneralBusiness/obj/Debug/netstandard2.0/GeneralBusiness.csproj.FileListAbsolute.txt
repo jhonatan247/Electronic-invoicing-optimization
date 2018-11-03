@@ -1,0 +1,9 @@
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.deps.json
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\bin\Debug\netstandard2.0\GeneralBusiness.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.csproj.CoreCompileInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.AssemblyInfoInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.AssemblyInfo.cs
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralBusiness\obj\Debug\netstandard2.0\GeneralBusiness.csprojAssemblyReference.cache

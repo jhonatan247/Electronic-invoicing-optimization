@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\B.SignInvoice\\B.SignInvoice.csproj",
+      "projectUniqueName": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\B.SignInvoice\\B.SignInvoice.csproj",
       "projectName": "B.SignInvoice",
-      "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\B.SignInvoice\\B.SignInvoice.csproj",
+      "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\B.SignInvoice\\B.SignInvoice.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\B.SignInvoice\\obj\\",
+      "outputPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\B.SignInvoice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
-              "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
+            "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
+              "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
             }
           }
         }

@@ -1,0 +1,12 @@
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\bin\Debug\netstandard2.0\C.XsdValidator.deps.json
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\bin\Debug\netstandard2.0\C.XsdValidator.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\bin\Debug\netstandard2.0\C.XsdValidator.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\bin\Debug\netstandard2.0\GeneralBusiness.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\bin\Debug\netstandard2.0\GeneralBusiness.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\obj\Debug\netstandard2.0\C.XsdValidator.csprojAssemblyReference.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\obj\Debug\netstandard2.0\C.XsdValidator.csproj.CoreCompileInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\obj\Debug\netstandard2.0\C.XsdValidator.AssemblyInfoInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\obj\Debug\netstandard2.0\C.XsdValidator.AssemblyInfo.cs
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\obj\Debug\netstandard2.0\C.XsdValidator.csproj.CopyComplete
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\obj\Debug\netstandard2.0\C.XsdValidator.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\C.XsdValidator\obj\Debug\netstandard2.0\C.XsdValidator.pdb

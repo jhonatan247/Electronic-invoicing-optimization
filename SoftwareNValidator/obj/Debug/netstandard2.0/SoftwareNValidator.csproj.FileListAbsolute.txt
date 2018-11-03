@@ -1,0 +1,14 @@
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\bin\Debug\netstandard2.0\SoftwareNValidator.deps.json
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\bin\Debug\netstandard2.0\SoftwareNValidator.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\bin\Debug\netstandard2.0\SoftwareNValidator.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\bin\Debug\netstandard2.0\A.SaveInvoice.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\bin\Debug\netstandard2.0\GeneralBusiness.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\bin\Debug\netstandard2.0\A.SaveInvoice.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\bin\Debug\netstandard2.0\GeneralBusiness.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\obj\Debug\netstandard2.0\SoftwareNValidator.csprojAssemblyReference.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\obj\Debug\netstandard2.0\SoftwareNValidator.csproj.CoreCompileInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\obj\Debug\netstandard2.0\SoftwareNValidator.AssemblyInfoInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\obj\Debug\netstandard2.0\SoftwareNValidator.AssemblyInfo.cs
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\obj\Debug\netstandard2.0\SoftwareNValidator.csproj.CopyComplete
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\obj\Debug\netstandard2.0\SoftwareNValidator.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\SoftwareNValidator\obj\Debug\netstandard2.0\SoftwareNValidator.pdb

@@ -1,0 +1,9 @@
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\bin\Debug\netstandard2.0\DianService.deps.json
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\bin\Debug\netstandard2.0\DianService.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\bin\Debug\netstandard2.0\DianService.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\obj\Debug\netstandard2.0\DianService.csprojAssemblyReference.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\obj\Debug\netstandard2.0\DianService.csproj.CoreCompileInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\obj\Debug\netstandard2.0\DianService.AssemblyInfoInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\obj\Debug\netstandard2.0\DianService.AssemblyInfo.cs
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\obj\Debug\netstandard2.0\DianService.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\DianService\obj\Debug\netstandard2.0\DianService.pdb

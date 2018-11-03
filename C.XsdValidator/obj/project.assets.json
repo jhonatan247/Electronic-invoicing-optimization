@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\C.XsdValidator\\C.XsdValidator.csproj",
+      "projectUniqueName": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\C.XsdValidator\\C.XsdValidator.csproj",
       "projectName": "C.XsdValidator",
-      "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\C.XsdValidator\\C.XsdValidator.csproj",
+      "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\C.XsdValidator\\C.XsdValidator.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\C.XsdValidator\\obj\\",
+      "outputPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\C.XsdValidator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
-              "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
+            "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
+              "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
             }
           }
         }

@@ -1,0 +1,14 @@
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\bin\Debug\netstandard2.0\D.SendInvoice.deps.json
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\bin\Debug\netstandard2.0\D.SendInvoice.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\bin\Debug\netstandard2.0\D.SendInvoice.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\bin\Debug\netstandard2.0\DianService.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\bin\Debug\netstandard2.0\GeneralBusiness.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\bin\Debug\netstandard2.0\DianService.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\bin\Debug\netstandard2.0\GeneralBusiness.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\obj\Debug\netstandard2.0\D.SendInvoice.csprojAssemblyReference.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\obj\Debug\netstandard2.0\D.SendInvoice.csproj.CoreCompileInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\obj\Debug\netstandard2.0\D.SendInvoice.AssemblyInfoInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\obj\Debug\netstandard2.0\D.SendInvoice.AssemblyInfo.cs
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\obj\Debug\netstandard2.0\D.SendInvoice.csproj.CopyComplete
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\obj\Debug\netstandard2.0\D.SendInvoice.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\D.SendInvoice\obj\Debug\netstandard2.0\D.SendInvoice.pdb

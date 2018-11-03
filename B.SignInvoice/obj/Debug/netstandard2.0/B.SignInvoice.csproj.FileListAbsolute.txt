@@ -1,0 +1,12 @@
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\bin\Debug\netstandard2.0\B.SignInvoice.deps.json
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\bin\Debug\netstandard2.0\B.SignInvoice.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\bin\Debug\netstandard2.0\B.SignInvoice.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\bin\Debug\netstandard2.0\GeneralBusiness.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\bin\Debug\netstandard2.0\GeneralBusiness.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\obj\Debug\netstandard2.0\B.SignInvoice.csprojAssemblyReference.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\obj\Debug\netstandard2.0\B.SignInvoice.csproj.CoreCompileInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\obj\Debug\netstandard2.0\B.SignInvoice.AssemblyInfoInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\obj\Debug\netstandard2.0\B.SignInvoice.AssemblyInfo.cs
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\obj\Debug\netstandard2.0\B.SignInvoice.csproj.CopyComplete
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\obj\Debug\netstandard2.0\B.SignInvoice.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\B.SignInvoice\obj\Debug\netstandard2.0\B.SignInvoice.pdb

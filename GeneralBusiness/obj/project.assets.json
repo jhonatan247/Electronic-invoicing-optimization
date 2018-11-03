@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj",
+      "projectUniqueName": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj",
       "projectName": "GeneralBusiness",
-      "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj",
+      "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\obj\\",
+      "outputPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

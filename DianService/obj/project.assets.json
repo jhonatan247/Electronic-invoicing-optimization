@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\DianService\\DianService.csproj",
+      "projectUniqueName": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\DianService\\DianService.csproj",
       "projectName": "DianService",
-      "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\DianService\\DianService.csproj",
+      "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\DianService\\DianService.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\DianService\\obj\\",
+      "outputPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\DianService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

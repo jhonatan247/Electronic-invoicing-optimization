@@ -1,0 +1,12 @@
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\bin\Debug\netstandard2.0\GeneralServices.deps.json
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\bin\Debug\netstandard2.0\GeneralServices.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\bin\Debug\netstandard2.0\GeneralServices.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\bin\Debug\netstandard2.0\GeneralBusiness.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\bin\Debug\netstandard2.0\GeneralBusiness.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\obj\Debug\netstandard2.0\GeneralServices.csprojAssemblyReference.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\obj\Debug\netstandard2.0\GeneralServices.csproj.CoreCompileInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\obj\Debug\netstandard2.0\GeneralServices.AssemblyInfoInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\obj\Debug\netstandard2.0\GeneralServices.AssemblyInfo.cs
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\obj\Debug\netstandard2.0\GeneralServices.csproj.CopyComplete
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\obj\Debug\netstandard2.0\GeneralServices.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\GeneralServices\obj\Debug\netstandard2.0\GeneralServices.pdb

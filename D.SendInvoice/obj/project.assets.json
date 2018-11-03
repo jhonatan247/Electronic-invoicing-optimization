@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\D.SendInvoice\\D.SendInvoice.csproj",
+      "projectUniqueName": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\D.SendInvoice\\D.SendInvoice.csproj",
       "projectName": "D.SendInvoice",
-      "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\D.SendInvoice\\D.SendInvoice.csproj",
+      "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\D.SendInvoice\\D.SendInvoice.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\D.SendInvoice\\obj\\",
+      "outputPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\D.SendInvoice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -237,11 +237,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\DianService\\DianService.csproj": {
-              "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\DianService\\DianService.csproj"
+            "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\DianService\\DianService.csproj": {
+              "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\DianService\\DianService.csproj"
             },
-            "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
-              "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
+            "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
+              "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
             }
           }
         }

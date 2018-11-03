@@ -217,11 +217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\SoftwareNValidator\\SoftwareNValidator.csproj",
+      "projectUniqueName": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\SoftwareNValidator\\SoftwareNValidator.csproj",
       "projectName": "SoftwareNValidator",
-      "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\SoftwareNValidator\\SoftwareNValidator.csproj",
+      "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\SoftwareNValidator\\SoftwareNValidator.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\SoftwareNValidator\\obj\\",
+      "outputPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\SoftwareNValidator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -240,11 +240,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\A.SaveInvoice\\A.SaveInvoice.csproj": {
-              "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\A.SaveInvoice\\A.SaveInvoice.csproj"
+            "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\A.SaveInvoice\\A.SaveInvoice.csproj": {
+              "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\A.SaveInvoice\\A.SaveInvoice.csproj"
             },
-            "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
-              "projectPath": "C:\\Users\\jhona\\Downloads\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
+            "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
+              "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
             }
           }
         }

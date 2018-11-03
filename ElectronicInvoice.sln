@@ -3,31 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Software1Validator", "Software1Validator\Software1Validator.csproj", "{D36E1EEA-7D2C-49C8-9146-71372796872B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Software1Validator", "Software1Validator\Software1Validator.csproj", "{D36E1EEA-7D2C-49C8-9146-71372796872B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.SaveInvoice", "A.SaveInvoice\A.SaveInvoice.csproj", "{98137190-D6D3-448F-AA6B-68A60B08C1A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A.SaveInvoice", "A.SaveInvoice\A.SaveInvoice.csproj", "{98137190-D6D3-448F-AA6B-68A60B08C1A1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SoftwareValidators", "SoftwareValidators", "{47813312-B9AE-4AE5-8CEA-B4FED22B86BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Software2Validator", "Software2Validator\Software2Validator.csproj", "{084C2876-8CFE-4EE2-A5F8-D2B93EF38DEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Software2Validator", "Software2Validator\Software2Validator.csproj", "{084C2876-8CFE-4EE2-A5F8-D2B93EF38DEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareNValidator", "SoftwareNValidator\SoftwareNValidator.csproj", "{D02C8802-84B1-4AAC-BAE5-AC5F08FA42FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftwareNValidator", "SoftwareNValidator\SoftwareNValidator.csproj", "{D02C8802-84B1-4AAC-BAE5-AC5F08FA42FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B.SignInvoice", "B.SignInvoice\B.SignInvoice.csproj", "{9CEE595D-7501-4071-836A-1551C6748115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B.SignInvoice", "B.SignInvoice\B.SignInvoice.csproj", "{9CEE595D-7501-4071-836A-1551C6748115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C.XsdValidator", "C.XsdValidator\C.XsdValidator.csproj", "{F47225C1-AEC2-459A-9597-E580BD82EB3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C.XsdValidator", "C.XsdValidator\C.XsdValidator.csproj", "{F47225C1-AEC2-459A-9597-E580BD82EB3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D.SendInvoice", "D.SendInvoice\D.SendInvoice.csproj", "{659A54DF-A83E-43D6-B849-6F078413B45C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D.SendInvoice", "D.SendInvoice\D.SendInvoice.csproj", "{659A54DF-A83E-43D6-B849-6F078413B45C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DianService", "DianService\DianService.csproj", "{8D88FDFE-8131-44B6-AB04-CB1F30973353}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DianService", "DianService\DianService.csproj", "{8D88FDFE-8131-44B6-AB04-CB1F30973353}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E.ConfirmState", "E.ConfirmState\E.ConfirmState.csproj", "{E6EB0C35-A13C-45BB-890D-33D0E4D499FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E.ConfirmState", "E.ConfirmState\E.ConfirmState.csproj", "{E6EB0C35-A13C-45BB-890D-33D0E4D499FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralBusiness", "GeneralBusiness\GeneralBusiness.csproj", "{7D666E4D-547E-4E56-A097-A2C7330D82A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralBusiness", "GeneralBusiness\GeneralBusiness.csproj", "{7D666E4D-547E-4E56-A097-A2C7330D82A2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DianServices", "DianServices", "{AC70DE46-A848-4016-8D02-B26812C52526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralServices", "GeneralServices\GeneralServices.csproj", "{1A841931-93E5-43A6-B593-0B44174D9D96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralServices", "GeneralServices\GeneralServices.csproj", "{1A841931-93E5-43A6-B593-0B44174D9D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicBillingProgram", "ElectronicBillingProgram\ElectronicBillingProgram.csproj", "{B7726225-B4DE-482E-9F77-20FD3DA709B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +81,10 @@ Global
 		{1A841931-93E5-43A6-B593-0B44174D9D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A841931-93E5-43A6-B593-0B44174D9D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A841931-93E5-43A6-B593-0B44174D9D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7726225-B4DE-482E-9F77-20FD3DA709B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7726225-B4DE-482E-9F77-20FD3DA709B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7726225-B4DE-482E-9F77-20FD3DA709B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7726225-B4DE-482E-9F77-20FD3DA709B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

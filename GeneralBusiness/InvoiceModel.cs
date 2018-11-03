@@ -42,6 +42,14 @@ namespace GeneralBusiness
         public CustomerSendState customerSendState;
         public CustomerAction customerAction;
 
+        public InvoiceModel()
+        {
+            state = InvoiceState.received;
+            createddate = DateTime.Now;
+            customerSendState = CustomerSendState.noSended;
+            customerAction = CustomerAction.noAction;
+        }
+
         public override string ToString()
         {
             return $"<invoice><prefix>{prefix}</prefix><consecutive>{consecutive }</consecutive><ubl>{UBL}</ubl><invoice>";
