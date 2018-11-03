@@ -8,16 +8,16 @@ namespace GeneralBusiness
 
     public enum InvoiceState
     {
-        added,
-        received,
-        signed,
-        signError,
-        validated,
-        validationError,
-        sended,
-        sendError,
-        confirmed,
-        confirmError 
+        added = 1,
+        validated = 2,
+        validationError = 3,
+        signed = 4,
+        signError = 5,
+        confirmed = 6,
+        confirmError = 7,
+        sended = 8,
+        sendError = 9,
+        received = 10
     }
 
     public enum CustomerSendState

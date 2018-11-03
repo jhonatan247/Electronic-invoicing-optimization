@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralServices", "GeneralS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicBillingProgram", "ElectronicBillingProgram\ElectronicBillingProgram.csproj", "{B7726225-B4DE-482E-9F77-20FD3DA709B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{3E34FD34-5916-4825-BF5D-6C9445C46FBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{B7726225-B4DE-482E-9F77-20FD3DA709B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7726225-B4DE-482E-9F77-20FD3DA709B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7726225-B4DE-482E-9F77-20FD3DA709B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E34FD34-5916-4825-BF5D-6C9445C46FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E34FD34-5916-4825-BF5D-6C9445C46FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E34FD34-5916-4825-BF5D-6C9445C46FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E34FD34-5916-4825-BF5D-6C9445C46FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
