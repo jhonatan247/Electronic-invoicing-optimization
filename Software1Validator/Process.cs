@@ -15,9 +15,8 @@ namespace Software1Validator
         static double CONSTErrorProb = 0.3;
         static double CONSTErrorPdfProb = 0.1;
 
-        public static ResponseModel ProcesInvoice(string XML)
+        public static ResponseModel ProcesInvoice(RequestModel request)
         {
-            InvoiceModel Invoice = new InvoiceModel();
             Random random = new Random(CONSTSeed);
             ResponseModel responseModel = new ResponseModel();
             Thread.Sleep(CONSTSleepValue);
@@ -28,7 +27,7 @@ namespace Software1Validator
             else
             {
                 responseModel.CUFE = (new Guid()).ToString();
-                responseModel.success = SaveInvoiceProcess.Save(Invoice);
+                responseModel.success = SaveInvoiceProcess.Save(request);
             }
             return responseModel;
         }

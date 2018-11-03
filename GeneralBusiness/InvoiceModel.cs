@@ -4,9 +4,11 @@ using System.Text;
 
 namespace GeneralBusiness
 {
+    public delegate void ChangeStatusDelegate(object sender);
+
     public enum InvoiceState
     {
-        created,
+        added,
         received,
         signed,
         signError,
@@ -34,26 +36,40 @@ namespace GeneralBusiness
 
     public class InvoiceModel
     {
-        public string prefix;
-        public long consecutive;
-        public string UBL;
-        public byte[] pdfFile;
-        public DateTime createddate;
-        public InvoiceState state;
-        public CustomerSendState customerSendState;
-        public CustomerAction customerAction;
+        private InvoiceState state;
+
+        public string Prefix { get; set; }
+        public long Consecutive { get; set; }
+        public string UBL { get; set; }
+        public byte[] PdfFile { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public string DownloadLink { get; set; }
+        public string XML { get; set; }
+        public InvoiceState State {
+            set {
+                state = value;
+                StatusChanged(this);
+            }
+            get {
+                return state;
+            }
+        }
+        public CustomerSendState CustomerSendState { get; set; }
+        public CustomerAction CustomerAction { get; set; }
+
+        public event ChangeStatusDelegate StatusChanged;
 
         public InvoiceModel()
         {
-            state = InvoiceState.created;
-            createddate = DateTime.Now;
-            customerSendState = CustomerSendState.noSended;
-            customerAction = CustomerAction.noAction;
+            state = InvoiceState.added;
+            CreatedDate = DateTime.Now;
+            CustomerSendState = CustomerSendState.noSended;
+            CustomerAction = CustomerAction.noAction;
         }
 
         public override string ToString()
         {
-            return $"<invoice><prefix>{prefix}</prefix><consecutive>{consecutive }</consecutive><ubl>{UBL}</ubl><invoice>";
+            return $"<invoice><prefix>{Prefix}</prefix><consecutive>{Consecutive }</consecutive><ubl>{UBL}</ubl><invoice>";
         }
     }
 }

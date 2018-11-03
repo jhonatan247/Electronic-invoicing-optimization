@@ -8,7 +8,7 @@ namespace ASaveInvoice
     public class SaveInvoiceProcess
     {
         static string CONSTSavedFolder = "./Invoices/";
-        public static bool Save(InvoiceModel oInvoice)
+        public static bool Save(RequestModel request)
         {
             bool saved = true;
             //System.IO.File.WriteAllBytes("Archivo.pdf", oInvoice.pdfFile);
