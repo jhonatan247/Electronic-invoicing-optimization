@@ -1,0 +1,9 @@
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\bin\Debug\Data.dll.config
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\bin\Debug\Data.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\bin\Debug\Data.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\obj\Debug\Data.csprojAssemblyReference.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\obj\Debug\Data.Properties.Resources.resources
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\obj\Debug\Data.csproj.GenerateResource.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\obj\Debug\Data.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Data\obj\Debug\Data.pdb

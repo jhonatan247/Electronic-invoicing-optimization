@@ -30,6 +30,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Data": "1.0.0",
           "GeneralBusiness": "1.0.0"
         },
         "compile": {
@@ -37,6 +38,15 @@
         },
         "runtime": {
           "bin/placeholder/A.SaveInvoice.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
         }
       },
       "GeneralBusiness/1.0.0": {
@@ -196,6 +206,11 @@
       "type": "project",
       "path": "../A.SaveInvoice/A.SaveInvoice.csproj",
       "msbuildProject": "../A.SaveInvoice/A.SaveInvoice.csproj"
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
     },
     "GeneralBusiness/1.0.0": {
       "type": "project",

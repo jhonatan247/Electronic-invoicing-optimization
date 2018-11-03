@@ -26,6 +26,15 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Data/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      },
       "GeneralBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -179,6 +188,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
+    },
     "GeneralBusiness/1.0.0": {
       "type": "project",
       "path": "../GeneralBusiness/GeneralBusiness.csproj",
@@ -187,6 +201,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Data >= 1.0.0",
       "GeneralBusiness >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
@@ -221,6 +236,9 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
+            "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\Data\\Data.csproj": {
+              "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\Data\\Data.csproj"
+            },
             "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj": {
               "projectPath": "G:\\Proyectos\\ProyectosVisual\\C#\\RETO 1\\ElectronicInvoice\\GeneralBusiness\\GeneralBusiness.csproj"
             }

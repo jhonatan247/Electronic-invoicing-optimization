@@ -10,3 +10,6 @@ G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\A.SaveInvoice\obj\Debug
 G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\A.SaveInvoice\obj\Debug\netstandard2.0\A.SaveInvoice.csproj.CopyComplete
 G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\A.SaveInvoice\obj\Debug\netstandard2.0\A.SaveInvoice.dll
 G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\A.SaveInvoice\obj\Debug\netstandard2.0\A.SaveInvoice.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\A.SaveInvoice\bin\Debug\netstandard2.0\Data.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\A.SaveInvoice\bin\Debug\netstandard2.0\Data.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\A.SaveInvoice\bin\Debug\netstandard2.0\Data.dll.config

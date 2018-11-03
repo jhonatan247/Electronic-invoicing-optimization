@@ -4,16 +4,26 @@ using System.Text;
 
 namespace GeneralBusiness
 {
+    public enum Error {
+        validate,
+        save,
+        sign,
+        validateWithXSD,
+        send,
+        connection, 
+        decline,
+        none
+    }
     public class ResponseModel
     {
         public bool success;
         public string CUFE;
-        public List<object> errorList;
-
+        public Error error;
+        
         public ResponseModel() {
             success = false;
             CUFE = "";
-            errorList = new List<object>();
+            error = Error.none;
         }
 
     }

@@ -81,9 +81,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj">
+      <Project>{3e34fd34-5916-4825-bf5d-6c9445c46fba}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GeneralBusiness\GeneralBusiness.csproj">
       <Project>{7d666e4d-547e-4e56-a097-a2c7330d82a2}</Project>
       <Name>GeneralBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Server\Server.csproj">
+      <Project>{28d01849-d142-469a-94a8-8ebef095998d}</Project>
+      <Name>Server</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

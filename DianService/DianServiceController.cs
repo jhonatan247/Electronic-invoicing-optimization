@@ -7,14 +7,13 @@ namespace DianService
 {
     public class DianServiceController
     {
-        static int CONSTSeed = 100;
-        static int CONSTSleepValue = 1000;
+        static int CONSTSleepValue = 100;
         static double CONSTErrorProb = 0.1;
         static double CONSTSystemDownProb = 0.1;
 
         public static string Receive(string invoice)
         {
-            Random random = new Random(CONSTSeed);
+            Random random = new Random();
             Thread.Sleep(CONSTSleepValue);
             if (random.NextDouble() <= CONSTSystemDownProb)
             {
@@ -32,7 +31,7 @@ namespace DianService
 
         public static string GetInvoiceState(string invoice)
         {
-            Random random = new Random(CONSTSeed);
+            Random random = new Random();
             Thread.Sleep(CONSTSleepValue);
             if (random.NextDouble() <= CONSTSystemDownProb)
             {

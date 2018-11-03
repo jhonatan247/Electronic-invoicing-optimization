@@ -12,3 +12,6 @@ G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Software1Validator\obj\
 G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Software1Validator\obj\Debug\netstandard2.0\Software1Validator.csproj.CopyComplete
 G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Software1Validator\obj\Debug\netstandard2.0\Software1Validator.dll
 G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Software1Validator\obj\Debug\netstandard2.0\Software1Validator.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Software1Validator\bin\Debug\netstandard2.0\Data.dll
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Software1Validator\bin\Debug\netstandard2.0\Data.pdb
+G:\Proyectos\ProyectosVisual\C#\RETO 1\ElectronicInvoice\Software1Validator\bin\Debug\netstandard2.0\Data.dll.config

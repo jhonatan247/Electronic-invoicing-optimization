@@ -25,10 +25,16 @@
       },
       "A.SaveInvoice/1.0.0": {
         "dependencies": {
+          "Data": "1.0.0",
           "GeneralBusiness": "1.0.0"
         },
         "runtime": {
           "A.SaveInvoice.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "runtime": {
+          "Data.dll": {}
         }
       },
       "GeneralBusiness/1.0.0": {
@@ -59,6 +65,11 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "A.SaveInvoice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

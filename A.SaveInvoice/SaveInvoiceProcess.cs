@@ -2,24 +2,41 @@
 using System.Collections.Generic;
 using System.Text;
 using GeneralBusiness;
+using Data.CRUD;
 
 namespace ASaveInvoice
 {
     public class SaveInvoiceProcess
     {
         static string CONSTSavedFolder = "./Invoices/";
-        public static bool Save(RequestModel request)
-        {
-            bool saved = true;
-            //System.IO.File.WriteAllBytes("Archivo.pdf", oInvoice.pdfFile);
-            
-            return saved;
-        }
+        
+        static double CONSTErrorProb = 0.3;
 
-        public static bool AttachPDF(string invoiceData, byte[] pdf)
+        public static bool Save(InvoiceModel request)
         {
-            /// [TODO] Codigo para atachar el pdf a las facturas y notificar via Email al cliente de que se registro una factura
-            throw new NotImplementedException();
+            Request.Update_PDF(request.Id);
+            Random random = new Random();
+            if (random.NextDouble() <= CONSTErrorProb)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
+        public static bool AttachPDF(InvoiceModel request)
+        {
+            Request.Update_XML(request.Id);
+            Random random = new Random();
+            if (random.NextDouble() <= CONSTErrorProb)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
         }
     }
 }
