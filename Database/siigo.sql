@@ -206,4 +206,10 @@ use siigo;
 		where id = @id;
 	end
 	go
-
+	create proc clear_data
+	as
+	begin
+		truncate table request;
+	end
+	go
+	select * from request;
