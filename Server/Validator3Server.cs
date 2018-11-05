@@ -35,21 +35,13 @@ namespace Server
                 }
                 else
                 {
-                    currentRequest = new InvoiceModel(Int64.Parse(dtRequests.Rows[i][0].ToString()), RequestType.PDF, dtRequests.Rows[i][8].ToString());
+                    currentRequest = new InvoiceModel(Int64.Parse(dtRequests.Rows[i][0].ToString()), RequestType.XML, dtRequests.Rows[i][8].ToString());
                     currentResponse = Software1Validator.Process.ProcesInvoice(currentRequest);
                 }
                 if (currentResponse.success)
                 {
                     Request.Update_Estado(currentRequest.Id, (int)InvoiceState.saved);
-                    if (Validator1Server.SignInvoiceThread.ThreadState != ThreadState.Running && Validator1Server.SignInvoiceThread.ThreadState != ThreadState.WaitSleepJoin)
-                    {
-                        Validator1Server.SignInvoiceThread = new Thread(Validator1Server.SignInvoiceDelegate);
-                        try
-                        {
-                            Validator1Server.SignInvoiceThread.Start();
-                        }
-                        catch{ }
-                    }
+                    Validator1Server.CompleteProcess();
                 }
                 else
                 {

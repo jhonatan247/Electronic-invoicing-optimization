@@ -22,7 +22,7 @@ namespace Server
             ResponseModel currentResponse;
             for (int i = 0; i < dtRequests.Rows.Count; i++)
             {
-                Console.WriteLine(DateTime.Now.ToLongTimeString() + " " + (dtRequests.Rows.Count - i) + " requests are in step 5");
+                Console.WriteLine(DateTime.Now.ToLongTimeString() + ": " + (dtRequests.Rows.Count - i) + " requests are in step 5");
                 Thread.Sleep(500);
                 String type = dtRequests.Rows[i][2].ToString();
                 currentRequest = new InvoiceModel(Int64.Parse(dtRequests.Rows[i][0].ToString()), RequestType.PDF, dtRequests.Rows[i][10].ToString());
@@ -43,7 +43,10 @@ namespace Server
                     }
                 }
             }
-            Console.WriteLine(DateTime.Now.ToLongTimeString() + " There are no requests in step 5");
+            Console.WriteLine(DateTime.Now.ToLongTimeString() + ": There are no requests in step 5");
+            dtRequests = Request.SelectStatus((int)InvoiceState.sended, (int)InvoiceState.connectionConfirmError);
+            if (dtRequests.Rows.Count > 0)
+                Start();
         }
     }
 }
