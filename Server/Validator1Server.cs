@@ -36,21 +36,13 @@ namespace Server
                 }
                 else
                 {
-                    currentRequest = new InvoiceModel(Int64.Parse(dtRequests.Rows[i][0].ToString()), RequestType.PDF, dtRequests.Rows[i][8].ToString());
+                    currentRequest = new InvoiceModel(Int64.Parse(dtRequests.Rows[i][0].ToString()), RequestType.XML, dtRequests.Rows[i][8].ToString());
                     currentResponse = Software1Validator.Process.ProcesInvoice(currentRequest);
                 }
                 if (currentResponse.success)
                 {
                     Request.Update_Estado(currentRequest.Id, (int)InvoiceState.saved);
-                    if (SignInvoiceThread.ThreadState != ThreadState.Running && SignInvoiceThread.ThreadState != ThreadState.WaitSleepJoin)
-                    {
-                        SignInvoiceThread = new Thread(SignInvoiceDelegate);
-                        try
-                        {
-                            SignInvoiceThread.Start();
-                        }
-                        catch { }
-                    }
+                    CompleteProcess();
                 }
                 else
                 {
@@ -65,6 +57,17 @@ namespace Server
             dtRequests = Request.SelectValidator(1);
             if (dtRequests.Rows.Count > 0)
                 Start();
+        }
+        public static void CompleteProcess() {
+            if (SignInvoiceThread.ThreadState != ThreadState.Running && SignInvoiceThread.ThreadState != ThreadState.WaitSleepJoin)
+            {
+                SignInvoiceThread = new Thread(SignInvoiceDelegate);
+                try
+                {
+                    SignInvoiceThread.Start();
+                }
+                catch { }
+            }
         }
         static void SignInvoice()
         {

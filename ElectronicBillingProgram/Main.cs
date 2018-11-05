@@ -86,7 +86,7 @@ namespace ElectronicBillingProgram
 
         private void buttonX3_Click(object sender, EventArgs e)
         {
-            server.Complete();
+            server.CompleteProcess();
         }
     }
 }

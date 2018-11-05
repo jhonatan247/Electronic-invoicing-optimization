@@ -33,11 +33,11 @@ namespace Server
                     Request.Insert("PDF", request.pathPdfSource);
                 else
                     Request.Insert("XML", request.sourceXmlText);
-                Complete();
             }
-            
+            CompleteProcess();
+
         }
-        public void Complete() {
+        public void CompleteProcess() {
             if (Validator1Thread.ThreadState != ThreadState.Running && Validator1Thread.ThreadState != ThreadState.WaitSleepJoin)
             {
                 Validator1Thread = new Thread(Validator1Delegate);
